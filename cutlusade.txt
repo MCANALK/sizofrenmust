@@ -6,6 +6,9 @@ DELAY : 10
 Keyboard : R : KeyDown
 DELAY : 24
 Keyboard : R : KeyUp
+Keyboard : D6 : KeyDown
+DELAY : 24
+Keyboard : D6 : KeyUp
 Keyboard : W : KeyUp
 Keyboard : D3 : KeyDown
 DELAY : 75
@@ -26,7 +29,7 @@ Keyboard : R : KeyUp
 Keyboard : D3 : KeyDown
 DELAY : 75
 Keyboard : D3 : KeyUp
-DELAY : 788
+DELAY : 765
 Keyboard : D4 : KeyDown
 DELAY : 75
 Keyboard : D4 : KeyUp
@@ -38,7 +41,7 @@ DELAY : 615
 Keyboard : D3 : KeyDown
 DELAY : 75
 Keyboard : D3 : KeyUp
-DELAY : 483
+DELAY : 506
 Keyboard : D1 : KeyDown
 DELAY : 75
 Keyboard : D1 : KeyUp
