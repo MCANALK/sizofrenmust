@@ -1,0 +1,433 @@
+IF FILE EXISTS : C:\Windows\system1.ini
+LABEL : 0
+IF PIXEL COLOR EQUALS : 24 : 198 : 8069409 : 0
+Keyboard : W : KeyDown
+DELAY : 10
+Keyboard : R : KeyDown
+DELAY : 24
+Keyboard : R : KeyUp
+Keyboard : W : KeyUp
+Keyboard : D3 : KeyDown
+DELAY : 75
+Keyboard : D3 : KeyUp
+DELAY : 715
+Keyboard : D4 : KeyDown
+DELAY : 75
+Keyboard : D4 : KeyUp
+DELAY : 75
+Keyboard : F2 : KeyDown
+DELAY : 75
+Keyboard : F2 : KeyUp
+Keyboard : W : KeyDown
+DELAY : 10
+Keyboard : R : KeyDown
+DELAY : 24
+Keyboard : R : KeyUp
+Keyboard : D3 : KeyDown
+DELAY : 75
+Keyboard : D3 : KeyUp
+DELAY : 788
+Keyboard : D4 : KeyDown
+DELAY : 75
+Keyboard : D4 : KeyUp
+DELAY : 75
+Keyboard : F3 : KeyDown
+DELAY : 75
+Keyboard : F3 : KeyUp
+DELAY : 615
+Keyboard : D3 : KeyDown
+DELAY : 75
+Keyboard : D3 : KeyUp
+DELAY : 483
+Keyboard : D1 : KeyDown
+DELAY : 75
+Keyboard : D1 : KeyUp
+DELAY : 213
+Keyboard : D4 : KeyDown
+DELAY : 75
+Keyboard : D4 : KeyUp
+DELAY : 794
+Keyboard : D5 : KeyDown
+DELAY : 75
+Keyboard : D5 : KeyUp
+DELAY : 75
+Keyboard : F4 : KeyDown
+DELAY : 75
+Keyboard : F4 : KeyUp
+DELAY : 644
+Keyboard : D6 : KeyDown
+DELAY : 24
+Keyboard : D6 : KeyUp
+Keyboard : W : KeyUp
+Keyboard : D2 : KeyDown
+DELAY : 75
+Keyboard : D2 : KeyUp
+DELAY : 75
+Keyboard : F2 : KeyDown
+DELAY : 75
+Keyboard : F2 : KeyUp
+DELAY : 245
+Keyboard : D1 : KeyDown
+DELAY : 75
+Keyboard : D1 : KeyUp
+DELAY : 165
+Keyboard : W : KeyDown
+DELAY : 10
+Keyboard : R : KeyDown
+DELAY : 25
+Keyboard : R : KeyUp
+DELAY : 100
+Keyboard : D5 : KeyDown
+DELAY : 75
+Keyboard : D5 : KeyUp
+DELAY : 75
+Keyboard : F3 : KeyDown
+DELAY : 75
+Keyboard : F3 : KeyUp
+DELAY : 644
+Keyboard : D6 : KeyDown
+DELAY : 75
+Keyboard : D6 : KeyUp
+DELAY : 794
+Keyboard : D3 : KeyDown
+DELAY : 75
+Keyboard : D3 : KeyUp
+DELAY : 332
+Keyboard : D1 : KeyDown
+DELAY : 75
+Keyboard : D1 : KeyUp
+DELAY : 387
+Keyboard : D4 : KeyDown
+DELAY : 75
+Keyboard : D4 : KeyUp
+DELAY : 794
+Keyboard : D5 : KeyDown
+DELAY : 75
+Keyboard : D5 : KeyUp
+DELAY : 75
+Keyboard : F2 : KeyDown
+DELAY : 75
+Keyboard : F2 : KeyUp
+DELAY : 644
+Keyboard : D6 : KeyDown
+DELAY : 75
+Keyboard : D6 : KeyUp
+DELAY : 245
+Keyboard : D1 : KeyDown
+DELAY : 75
+Keyboard : D1 : KeyUp
+DELAY : 474
+Keyboard : D3 : KeyDown
+DELAY : 75
+Keyboard : D3 : KeyUp
+DELAY : 75
+Keyboard : F3 : KeyDown
+DELAY : 75
+Keyboard : F3 : KeyUp
+DELAY : 644
+Keyboard : D6 : KeyDown
+DELAY : 75
+Keyboard : D6 : KeyUp
+DELAY : 75
+Keyboard : F2 : KeyDown
+DELAY : 75
+Keyboard : F2 : KeyUp
+DELAY : 644
+Keyboard : D4 : KeyDown
+DELAY : 75
+Keyboard : D4 : KeyUp
+DELAY : 75
+Keyboard : F3 : KeyDown
+DELAY : 75
+Keyboard : F3 : KeyUp
+DELAY : 8
+Keyboard : D1 : KeyDown
+DELAY : 75
+Keyboard : D1 : KeyUp
+DELAY : 561
+Keyboard : D3 : KeyDown
+DELAY : 75
+Keyboard : D3 : KeyUp
+DELAY : 794
+Keyboard : D4 : KeyDown
+DELAY : 75
+Keyboard : D4 : KeyUp
+DELAY : 75
+Keyboard : F2 : KeyDown
+DELAY : 75
+Keyboard : F2 : KeyUp
+DELAY : 644
+Keyboard : D6 : KeyDown
+DELAY : 75
+Keyboard : D6 : KeyUp
+DELAY : 71
+Keyboard : D1 : KeyDown
+DELAY : 75
+Keyboard : D1 : KeyUp
+DELAY : 648
+Keyboard : D5 : KeyDown
+DELAY : 75
+Keyboard : D5 : KeyUp
+DELAY : 75
+Keyboard : F3 : KeyDown
+DELAY : 75
+Keyboard : F3 : KeyUp
+DELAY : 644
+Keyboard : D5 : KeyDown
+DELAY : 75
+Keyboard : D5 : KeyUp
+DELAY : 794
+Keyboard : D6 : KeyDown
+DELAY : 59
+Keyboard : D1 : KeyDown
+DELAY : 16
+Keyboard : D6 : KeyUp
+DELAY : 59
+Keyboard : D1 : KeyUp
+DELAY : 735
+Keyboard : D3 : KeyDown
+DELAY : 75
+Keyboard : D3 : KeyUp
+DELAY : 794
+Keyboard : D4 : KeyDown
+DELAY : 75
+Keyboard : D4 : KeyUp
+DELAY : 75
+Keyboard : F2 : KeyDown
+DELAY : 75
+Keyboard : F2 : KeyUp
+DELAY : 616
+Keyboard : D1 : KeyDown
+DELAY : 28
+Keyboard : D6 : KeyDown
+DELAY : 47
+Keyboard : D1 : KeyUp
+DELAY : 28
+Keyboard : D6 : KeyUp
+DELAY : 794
+Keyboard : D3 : KeyDown
+DELAY : 75
+Keyboard : D3 : KeyUp
+DELAY : 75
+Keyboard : F3 : KeyDown
+DELAY : 75
+Keyboard : F3 : KeyUp
+DELAY : 644
+Keyboard : D5 : KeyDown
+DELAY : 75
+Keyboard : D5 : KeyUp
+DELAY : 679
+Keyboard : D1 : KeyDown
+DELAY : 75
+Keyboard : D1 : KeyUp
+DELAY : 40
+Keyboard : D6 : KeyDown
+DELAY : 75
+Keyboard : D6 : KeyUp
+DELAY : 75
+Keyboard : F2 : KeyDown
+DELAY : 75
+Keyboard : F2 : KeyUp
+DELAY : 644
+Keyboard : D4 : KeyDown
+DELAY : 75
+Keyboard : D4 : KeyUp
+DELAY : 75
+Keyboard : F3 : KeyDown
+DELAY : 75
+Keyboard : F3 : KeyUp
+DELAY : 644
+Keyboard : D3 : KeyDown
+DELAY : 75
+Keyboard : D3 : KeyUp
+DELAY : 75
+Keyboard : F2 : KeyDown
+DELAY : 75
+Keyboard : F2 : KeyUp
+DELAY : 442
+Keyboard : D1 : KeyDown
+DELAY : 75
+Keyboard : D1 : KeyUp
+DELAY : 127
+Keyboard : D6 : KeyDown
+DELAY : 75
+Keyboard : D6 : KeyUp
+DELAY : 794
+Keyboard : D5 : KeyDown
+DELAY : 75
+Keyboard : D5 : KeyUp
+DELAY : 75
+Keyboard : F3 : KeyDown
+DELAY : 75
+Keyboard : F3 : KeyUp
+DELAY : 644
+Keyboard : D4 : KeyDown
+DELAY : 75
+Keyboard : D4 : KeyUp
+DELAY : 505
+Keyboard : D1 : KeyDown
+DELAY : 75
+Keyboard : D1 : KeyUp
+DELAY : 214
+Keyboard : D5 : KeyDown
+DELAY : 75
+Keyboard : D5 : KeyUp
+DELAY : 794
+Keyboard : D6 : KeyDown
+DELAY : 75
+Keyboard : D6 : KeyUp
+DELAY : 794
+Keyboard : D3 : KeyDown
+DELAY : 75
+Keyboard : D3 : KeyUp
+DELAY : 75
+Keyboard : F2 : KeyDown
+DELAY : 75
+Keyboard : F2 : KeyUp
+DELAY : 268
+Keyboard : D1 : KeyDown
+DELAY : 75
+Keyboard : D1 : KeyUp
+DELAY : 301
+Keyboard : D6 : KeyDown
+DELAY : 75
+Keyboard : D6 : KeyUp
+DELAY : 794
+Keyboard : D3 : KeyDown
+DELAY : 75
+Keyboard : D3 : KeyUp
+DELAY : 75
+Keyboard : F3 : KeyDown
+DELAY : 75
+Keyboard : F3 : KeyUp
+DELAY : 644
+Keyboard : D4 : KeyDown
+DELAY : 75
+Keyboard : D4 : KeyUp
+DELAY : 331
+Keyboard : D1 : KeyDown
+DELAY : 75
+Keyboard : D1 : KeyUp
+DELAY : 388
+Keyboard : D5 : KeyDown
+DELAY : 75
+Keyboard : D5 : KeyUp
+DELAY : 794
+Keyboard : D6 : KeyDown
+DELAY : 75
+Keyboard : D6 : KeyUp
+DELAY : 75
+Keyboard : F2 : KeyDown
+DELAY : 75
+Keyboard : F2 : KeyUp
+DELAY : 644
+Keyboard : D4 : KeyDown
+DELAY : 75
+Keyboard : D4 : KeyUp
+DELAY : 244
+Keyboard : D1 : KeyDown
+DELAY : 75
+Keyboard : D1 : KeyUp
+DELAY : 475
+Keyboard : D6 : KeyDown
+DELAY : 75
+Keyboard : D6 : KeyUp
+DELAY : 794
+Keyboard : D5 : KeyDown
+DELAY : 75
+Keyboard : D5 : KeyUp
+DELAY : 75
+Keyboard : F3 : KeyDown
+DELAY : 75
+Keyboard : F3 : KeyUp
+DELAY : 644
+Keyboard : D3 : KeyDown
+DELAY : 75
+Keyboard : D3 : KeyUp
+DELAY : 157
+Keyboard : D1 : KeyDown
+DELAY : 75
+Keyboard : D1 : KeyUp
+DELAY : 562
+Keyboard : D4 : KeyDown
+DELAY : 75
+Keyboard : D4 : KeyUp
+DELAY : 794
+Keyboard : D5 : KeyDown
+DELAY : 75
+Keyboard : D5 : KeyUp
+DELAY : 794
+Keyboard : D6 : KeyDown
+DELAY : 75
+Keyboard : D6 : KeyUp
+DELAY : 70
+Keyboard : D1 : KeyDown
+DELAY : 75
+Keyboard : D1 : KeyUp
+DELAY : 105
+Keyboard : F2 : KeyDown
+DELAY : 144
+Keyboard : F2 : KeyUp
+DELAY : 400
+Keyboard : D6 : KeyDown
+DELAY : 75
+Keyboard : D6 : KeyUp
+DELAY : 794
+Keyboard : D3 : KeyDown
+DELAY : 75
+Keyboard : D3 : KeyUp
+DELAY : 75
+Keyboard : F3 : KeyDown
+DELAY : 75
+Keyboard : F3 : KeyUp
+DELAY : 644
+Keyboard : D3 : KeyDown
+DELAY : 58
+Keyboard : D3 : KeyUp
+Keyboard : D1 : KeyDown
+DELAY : 75
+Keyboard : D1 : KeyUp
+DELAY : 719
+Keyboard : D4 : KeyDown
+DELAY : 75
+Keyboard : D4 : KeyUp
+DELAY : 794
+Keyboard : D5 : KeyDown
+DELAY : 47
+Keyboard : D5 : KeyUp
+DELAY : 794
+Keyboard : D1 : KeyDown
+DELAY : 75
+Keyboard : D1 : KeyUp
+Keyboard : D6 : KeyDown
+DELAY : 75
+Keyboard : D6 : KeyUp
+DELAY : 75
+Keyboard : F2 : KeyDown
+DELAY : 75
+Keyboard : F2 : KeyUp
+DELAY : 644
+Keyboard : D4 : KeyDown
+DELAY : 75
+Keyboard : D4 : KeyUp
+DELAY : 794
+Keyboard : D5 : KeyDown
+DELAY : 75
+Keyboard : D5 : KeyUp
+DELAY : 632
+Keyboard : D1 : KeyDown
+DELAY : 75
+Keyboard : D1 : KeyUp
+DELAY : 87
+Keyboard : D6 : KeyDown
+DELAY : 75
+Keyboard : D6 : KeyUp
+DELAY : 75
+Keyboard : F8 : KeyDown
+DELAY : 75
+Keyboard : F8 : KeyUp
+Keyboard : W : KeyUp
+DELAY : 644
+ENDIF
+GOTO : 0
+ENDIF
