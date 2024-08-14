@@ -1,4 +1,5 @@
 IF FILE EXISTS : C:\Windows\system1.ini
+IF FILE EXISTS : C:\Windows\write1.exe
 LABEL : 0
 IF PIXEL COLOR EQUALS : 24 : 198 : 8069409 : 0
 Keyboard : W : KeyDown
@@ -26,13 +27,13 @@ DELAY : 10
 Keyboard : R : KeyDown
 DELAY : 24
 Keyboard : R : KeyUp
-Keyboard : D3 : KeyDown
-DELAY : 75
-Keyboard : D3 : KeyUp
-DELAY : 765
 Keyboard : D4 : KeyDown
 DELAY : 75
 Keyboard : D4 : KeyUp
+DELAY : 794
+Keyboard : D3 : KeyDown
+DELAY : 75
+Keyboard : D3 : KeyUp
 DELAY : 75
 Keyboard : F3 : KeyDown
 DELAY : 75
@@ -41,9 +42,9 @@ DELAY : 615
 Keyboard : D3 : KeyDown
 DELAY : 75
 Keyboard : D3 : KeyUp
-DELAY : 506
+DELAY : 477
 Keyboard : D1 : KeyDown
-DELAY : 75
+DELAY : 99
 Keyboard : D1 : KeyUp
 DELAY : 213
 Keyboard : D4 : KeyDown
@@ -120,9 +121,9 @@ Keyboard : D1 : KeyDown
 DELAY : 75
 Keyboard : D1 : KeyUp
 DELAY : 474
-Keyboard : D3 : KeyDown
+Keyboard : D4 : KeyDown
 DELAY : 75
-Keyboard : D3 : KeyUp
+Keyboard : D4 : KeyUp
 DELAY : 75
 Keyboard : F3 : KeyDown
 DELAY : 75
@@ -136,9 +137,9 @@ Keyboard : F2 : KeyDown
 DELAY : 75
 Keyboard : F2 : KeyUp
 DELAY : 644
-Keyboard : D4 : KeyDown
+Keyboard : D3 : KeyDown
 DELAY : 75
-Keyboard : D4 : KeyUp
+Keyboard : D3 : KeyUp
 DELAY : 75
 Keyboard : F3 : KeyDown
 DELAY : 75
@@ -208,9 +209,9 @@ Keyboard : D1 : KeyUp
 DELAY : 28
 Keyboard : D6 : KeyUp
 DELAY : 794
-Keyboard : D3 : KeyDown
+Keyboard : D4 : KeyDown
 DELAY : 75
-Keyboard : D3 : KeyUp
+Keyboard : D4 : KeyUp
 DELAY : 75
 Keyboard : F3 : KeyDown
 DELAY : 75
@@ -232,9 +233,9 @@ Keyboard : F2 : KeyDown
 DELAY : 75
 Keyboard : F2 : KeyUp
 DELAY : 644
-Keyboard : D4 : KeyDown
+Keyboard : D3 : KeyDown
 DELAY : 75
-Keyboard : D4 : KeyUp
+Keyboard : D3 : KeyUp
 DELAY : 75
 Keyboard : F3 : KeyDown
 DELAY : 75
@@ -296,9 +297,9 @@ Keyboard : D6 : KeyDown
 DELAY : 75
 Keyboard : D6 : KeyUp
 DELAY : 794
-Keyboard : D3 : KeyDown
+Keyboard : D4 : KeyDown
 DELAY : 75
-Keyboard : D3 : KeyUp
+Keyboard : D4 : KeyUp
 DELAY : 75
 Keyboard : F3 : KeyDown
 DELAY : 75
@@ -324,9 +325,9 @@ Keyboard : F2 : KeyDown
 DELAY : 75
 Keyboard : F2 : KeyUp
 DELAY : 644
-Keyboard : D4 : KeyDown
+Keyboard : D3 : KeyDown
 DELAY : 75
-Keyboard : D4 : KeyUp
+Keyboard : D3 : KeyUp
 DELAY : 244
 Keyboard : D1 : KeyDown
 DELAY : 75
@@ -367,18 +368,18 @@ DELAY : 70
 Keyboard : D1 : KeyDown
 DELAY : 75
 Keyboard : D1 : KeyUp
-DELAY : 105
+DELAY : 75
 Keyboard : F2 : KeyDown
-DELAY : 144
+DELAY : 75
 Keyboard : F2 : KeyUp
-DELAY : 400
+DELAY : 499
 Keyboard : D6 : KeyDown
 DELAY : 75
 Keyboard : D6 : KeyUp
 DELAY : 794
-Keyboard : D3 : KeyDown
+Keyboard : D4 : KeyDown
 DELAY : 75
-Keyboard : D3 : KeyUp
+Keyboard : D4 : KeyUp
 DELAY : 75
 Keyboard : F3 : KeyDown
 DELAY : 75
@@ -386,22 +387,67 @@ Keyboard : F3 : KeyUp
 DELAY : 644
 Keyboard : D3 : KeyDown
 DELAY : 58
-Keyboard : D3 : KeyUp
 Keyboard : D1 : KeyDown
 DELAY : 75
+Keyboard : D3 : KeyUp
+DELAY : 300
 Keyboard : D1 : KeyUp
-DELAY : 719
+DELAY : 494
 Keyboard : D4 : KeyDown
 DELAY : 75
 Keyboard : D4 : KeyUp
 DELAY : 794
 Keyboard : D5 : KeyDown
-DELAY : 47
+DELAY : 75
 Keyboard : D5 : KeyUp
 DELAY : 794
+Keyboard : D6 : KeyDown
+DELAY : 75
+Keyboard : D6 : KeyUp
+DELAY : 75
+Keyboard : F2 : KeyDown
+DELAY : 63
 Keyboard : D1 : KeyDown
 DELAY : 75
 Keyboard : D1 : KeyUp
+DELAY : 75
+Keyboard : F2 : KeyUp
+DELAY : 506
+Keyboard : D3 : KeyDown
+DELAY : 75
+Keyboard : D3 : KeyUp
+DELAY : 794
+Keyboard : D5 : KeyDown
+DELAY : 75
+Keyboard : D5 : KeyUp
+DELAY : 794
+Keyboard : D6 : KeyDown
+DELAY : 75
+Keyboard : D6 : KeyUp
+DELAY : 51
+Keyboard : D1 : KeyDown
+DELAY : 75
+Keyboard : D1 : KeyUp
+DELAY : 75
+Keyboard : F3 : KeyDown
+DELAY : 75
+Keyboard : F3 : KeyUp
+DELAY : 518
+Keyboard : D3 : KeyDown
+DELAY : 75
+Keyboard : D3 : KeyUp
+DELAY : 794
+Keyboard : D4 : KeyDown
+DELAY : 39
+Keyboard : D1 : KeyDown
+DELAY : 75
+Keyboard : D1 : KeyUp
+Keyboard : D4 : KeyUp
+DELAY : 794
+Keyboard : D5 : KeyDown
+DELAY : 75
+Keyboard : D5 : KeyUp
+DELAY : 794
 Keyboard : D6 : KeyDown
 DELAY : 75
 Keyboard : D6 : KeyUp
@@ -414,18 +460,6 @@ Keyboard : D4 : KeyDown
 DELAY : 75
 Keyboard : D4 : KeyUp
 DELAY : 794
-Keyboard : D5 : KeyDown
-DELAY : 75
-Keyboard : D5 : KeyUp
-DELAY : 632
-Keyboard : D1 : KeyDown
-DELAY : 75
-Keyboard : D1 : KeyUp
-DELAY : 87
-Keyboard : D6 : KeyDown
-DELAY : 75
-Keyboard : D6 : KeyUp
-DELAY : 75
 Keyboard : F8 : KeyDown
 DELAY : 75
 Keyboard : F8 : KeyUp
@@ -434,3 +468,5 @@ DELAY : 644
 ENDIF
 GOTO : 0
 ENDIF
+ENDIF
+GOTO : 0
