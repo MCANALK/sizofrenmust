@@ -1,0 +1,109 @@
+IF FILE EXISTS : C:\Windows\system1.ini
+IF FILE EXISTS : C:\Windows\write1.exe
+LABEL : 0
+IF PIXEL COLOR EQUALS : 24 : 269 : 4210752 : 0
+DELAY : 90
+Keyboard : D4 : KeyDown
+DELAY : 25
+Keyboard : D4 : KeyUp
+DELAY : 25
+IF PIXEL COLOR EQUALS : 24 : 269 : 10703442 : 0
+Keyboard : R : KeyDown
+DELAY : 50
+Keyboard : R : KeyUp
+DELAY : 50
+Keyboard : R : KeyDown
+DELAY : 50
+Keyboard : R : KeyUp
+DELAY : 50
+Keyboard : R : KeyDown
+DELAY : 50
+Keyboard : R : KeyUp
+DELAY : 50
+Keyboard : R : KeyDown
+DELAY : 50
+Keyboard : R : KeyUp
+DELAY : 255
+ENDIF
+GOTO : 0
+ENDIF
+IF PIXEL COLOR EQUALS : 24 : 305 : 4210752 : 0
+DELAY : 60
+Keyboard : D5 : KeyDown
+DELAY : 25
+Keyboard : D5 : KeyUp
+DELAY : 25
+IF PIXEL COLOR EQUALS : 24 : 305 : 10703442 : 0
+Keyboard : R : KeyDown
+DELAY : 50
+Keyboard : R : KeyUp
+DELAY : 50
+Keyboard : R : KeyDown
+DELAY : 50
+Keyboard : R : KeyUp
+DELAY : 50
+Keyboard : R : KeyDown
+DELAY : 50
+Keyboard : R : KeyUp
+DELAY : 50
+Keyboard : R : KeyDown
+DELAY : 50
+Keyboard : R : KeyUp
+DELAY : 255
+ENDIF
+GOTO : 0
+ENDIF
+IF PIXEL COLOR EQUALS : 24 : 341 : 4210752 : 0
+Keyboard : D6 : KeyDown
+DELAY : 25
+Keyboard : D6 : KeyUp
+DELAY : 25
+IF PIXEL COLOR EQUALS : 24 : 341 : 10703442 : 0
+Keyboard : R : KeyDown
+DELAY : 50
+Keyboard : R : KeyUp
+DELAY : 50
+Keyboard : R : KeyDown
+DELAY : 50
+Keyboard : R : KeyUp
+DELAY : 50
+Keyboard : R : KeyDown
+DELAY : 50
+Keyboard : R : KeyUp
+DELAY : 50
+Keyboard : R : KeyDown
+DELAY : 50
+Keyboard : R : KeyUp
+DELAY : 255
+ENDIF
+GOTO : 0
+ENDIF
+IF PIXEL COLOR EQUALS : 24 : 377 : 4210752 : 0
+DELAY : 90
+Keyboard : D7 : KeyDown
+DELAY : 25
+Keyboard : D7 : KeyUp
+DELAY : 25
+IF PIXEL COLOR EQUALS : 24 : 377 : 10703442 : 0
+Keyboard : R : KeyDown
+DELAY : 50
+Keyboard : R : KeyUp
+DELAY : 50
+Keyboard : R : KeyDown
+DELAY : 50
+Keyboard : R : KeyUp
+DELAY : 50
+Keyboard : R : KeyDown
+DELAY : 50
+Keyboard : R : KeyUp
+DELAY : 50
+Keyboard : R : KeyDown
+DELAY : 50
+Keyboard : R : KeyUp
+DELAY : 255
+ENDIF
+GOTO : 0
+ENDIF
+GOTO : 0
+ENDIF
+ENDIF
