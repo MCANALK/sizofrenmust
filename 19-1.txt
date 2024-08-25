@@ -5,7 +5,7 @@ DELAY : 10
 Keyboard : R : KeyDown
 DELAY : 24
 Keyboard : R : KeyUp
-Keyboard : D6 : KeyDown
+Keyboard : D5 : KeyDown
 DELAY : 24
 Keyboard : D5 : KeyUp
 Keyboard : W : KeyUp
