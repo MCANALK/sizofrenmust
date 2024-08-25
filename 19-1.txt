@@ -9,7 +9,7 @@ Keyboard : D5 : KeyDown
 DELAY : 24
 Keyboard : D5 : KeyUp
 Keyboard : W : KeyUp
-Keyboard : D5 : KeyDown
+Keyboard : D3 : KeyDown
 DELAY : 75
 Keyboard : D3 : KeyUp
 DELAY : 715
